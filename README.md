@@ -3,7 +3,7 @@
 ## Analysis Overview
 To create a binary classifier to predict whether or not applicants will be successful if they were to receive money for Alphabet Soup.
 
-## Data processing - 1st attempt
+## Data processing 
 The charity_data.csv contains more then 34,000 organizations that have received funding from Alphabet Soup over the years. Listed are the columns in the data set:
 -  EIN and  - NAME—Identification columns
 - APPLICATION_TYPE—Alphabet Soup application type
@@ -31,3 +31,10 @@ APPLICATION_TYPE',
 
 #### What variable(s) are neither targets nor features, and should be removed from the input data?
 "EIN", "NAME"
+
+Compiling, Training, and Evaluating the Model
+### How many neurons, layers, and activation functions did you select for your neural network model, and why?
+2 layers with "relu" activation, 3rd layer with "sigmoid" activation.  60 neurons in first hidden layer, 40 neurons in the second layer and 1 neuron in the third layer.
+### Were you able to achieve the target model performance?
+No
+
