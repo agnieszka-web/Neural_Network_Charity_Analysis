@@ -39,3 +39,22 @@ Compiling, Training, and Evaluating the Model
 No
 
 ![](images/first.PNG)
+
+
+2nd attempt
+#### What variable(s) are considered the target(s) for your model?
+IS_SUCCESSFUL 
+#### What variable(s) are neither targets nor features, and should be removed from the input data?
+"EIN"
+#### What variable(s) are considered to be the features for your model?
+'NAME',
+ 'APPLICATION_TYPE',
+ 'AFFILIATION',
+ 'CLASSIFICATION',
+ 'USE_CASE',
+ 'ORGANIZATION',
+ 'INCOME_AMT',
+ 'SPECIAL_CONSIDERATIONS'
+ 
+ 
+
