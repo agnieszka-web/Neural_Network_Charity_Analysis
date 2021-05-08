@@ -34,7 +34,7 @@ APPLICATION_TYPE',
 
 Compiling, Training, and Evaluating the Model
 ### How many neurons, layers, and activation functions did you select for your neural network model, and why?
-2 layers with "relu" activation, 3rd layer with "sigmoid" activation.  60 neurons in first hidden layer, 40 neurons in the second layer and 1 neuron in the third layer.
+1st and 2nd layers with "relu" activation, outer layer with "sigmoid" activation.  60 neurons in first hidden layer, 40 neurons in the second layer 
 ### Were you able to achieve the target model performance?
 No
 
@@ -56,5 +56,11 @@ IS_SUCCESSFUL
  'INCOME_AMT',
  'SPECIAL_CONSIDERATIONS'
  
+ ### How many neurons, layers, and activation functions did you select for your neural network model, and why?
+ 1st layer "relu" activation and 100 neurons, 2nd layer "relu" activation and 30 neurons, 3rd layer "relu" activation and 30 neurons
  
-
+ ### Were you able to achieve the target model performance?
+ Yes
+ 
+ ![](images/second.PNG)
+ 
