@@ -38,3 +38,4 @@ Compiling, Training, and Evaluating the Model
 ### Were you able to achieve the target model performance?
 No
 
+![](images/first.PNG)
