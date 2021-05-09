@@ -64,3 +64,6 @@ IS_SUCCESSFUL
  
  ![](images/second.PNG)
  
+
+### Summary
+The 2nd attempt reached the 78% accuracy, which is what we wanted.  
