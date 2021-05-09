@@ -1,7 +1,7 @@
 # Neural Network Charity Analysis
 
 ## Analysis Overview
-To create a binary classifier to predict whether or not applicants will be successful if they were to receive money for Alphabet Soup.
+To create a binary classifier to predict whether applicants will be successful if they were to receive money from Alphabet Soup a non-profit philanthropic foundation. 
 
 ## Data processing 
 The charity_data.csv contains more then 34,000 organizations that have received funding from Alphabet Soup over the years. Listed are the columns in the data set:
@@ -66,4 +66,4 @@ IS_SUCCESSFUL
  
 
 ### Summary
-The 2nd attempt reached the 78% accuracy, which is what we wanted.  
+The 2nd attempt reached the 78% accuracy, which is what we wanted.  Changing anything else with the model could make it overfit and not be able to reach the desired outcome.   
